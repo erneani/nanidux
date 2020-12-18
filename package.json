@@ -1,0 +1,8 @@
+{
+  "name": "nanidux",
+  "version": "1.0.0",
+  "description": "A simple Redux copy",
+  "main": "index.ts",
+  "author": "Vinícius Ernani",
+  "license": "MIT"
+}
